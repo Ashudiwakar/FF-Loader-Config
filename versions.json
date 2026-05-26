@@ -1,12 +1,12 @@
 {
     "version": "1.0.0",
-    "latest": "1.0.0",
-    "update_required": false,
-    "update_message": "",
+    "latest": "1.2.0",
+    "update_required": true,
+    "update_message": "New version available!\n- Fixed Silent Aim\n- Improved ESP\n- Added No Recoil",
+    "changelog": "v1.2.0: Bug fixes and improvements",
     "download_urls": {
         "aotbst": "https://drive.google.com/uc?export=download&id=11VaF4RuLj5RBzscwm8woLdAsVkgT7kvZ",
         "client": "https://drive.google.com/uc?export=download&confirm=1&id=1d_h40WTOJOii1rz_ZEwH9uOFUDx3i4pj",
         "cimgui": "https://drive.google.com/uc?export=download&id=1p71H_8Txb1aLb9apc_1-CtKYGwgFh9tX"
-    },
-    "changelog": "Initial release"
+    }
 }
