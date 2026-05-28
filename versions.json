@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "latest": "1.2.0",
+    "latest": "1.4.0",
     "update_required": true,
     "update_message": "New version available!\n- Fixed Silent Aim\n- Improved ESP\n- Added No Recoil",
     "changelog": "v1.2.0: Bug fixes and improvements",
