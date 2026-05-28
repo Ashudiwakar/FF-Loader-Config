@@ -1,8 +1,8 @@
 {
     "version": "1.0.0",
-    "latest": "1.4.0",
+    "latest": "1.5.0",
     "update_required": true,
-    "update_message": "New version available!\n- Fixed Silent Aim\n- Improved ESP\n- Added No Recoil",
+    "update_message": "New version available!\n- Fixed Silent Aim\n- Improved ESP\n- Added Nosilentmax",
     "changelog": "v1.2.0: Bug fixes and improvements",
     "download_urls": {
         "aotbst": "https://drive.google.com/uc?export=download&id=11VaF4RuLj5RBzscwm8woLdAsVkgT7kvZ",
